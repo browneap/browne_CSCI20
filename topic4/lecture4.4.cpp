@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    
+char mystring[20] = "my test string";
+char mystring2[20] = mystring;
+
+char myString3[20] = "my test string";
+if (myString3 == "my test string")
+{
+   cout<<"The same"<<endl;
+}
+
+ 
+char myString4[20] = "my test string";
+int i = 0; 
+int spaceCount = 0;
+while (i < 20)
+{
+   if (myString4[i] == ' ')
+   {
+        spaceCount++;
+   }
+}
+
+char myString5[2] = "my test string";
+i = 0;
+while (myString5[i] != '\0')
+{
+   cout<<myString5[i];
+   i++;
+}
+
+char myString6[20] = "my test string";
+myString6[14] = '!';
+cout<<myString6<<endl;
+}
