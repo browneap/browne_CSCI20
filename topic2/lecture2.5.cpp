@@ -19,3 +19,10 @@ class Salary
              cout<<"$"<<annual_<<endl;
         }
 };
+
+//Comment the class per the class style guide
+//Identify the following parts of the class
+//      data field
+//      mutator function
+//      accessor function
+//Create a main function that creates an object and runs all of the functions in order

@@ -43,3 +43,7 @@ void ComputePyramid(int l, int h){
     double v = (1.0/3) * l * h;
     cout<<"The volume of a pyramid is "<<v<<endl;
 } 
+
+//Appropriately comment all of the functions.  Make a note to identify the paramters and input.
+//Comment the main function as if it was pseudocode.
+//   make note of where the functions are called and the arguments.
