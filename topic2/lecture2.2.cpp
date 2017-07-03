@@ -24,3 +24,12 @@ void guessingGame ()
 
     cout<<"You picked: "<<userNumber<<"  The number was: "<<randomNumber<<endl;
 }
+
+//Identify with //* 2-4 items that are important
+//Identify with //? 2-4 items that are incorrect, unclear, or you have questions on.
+//Comment the function appropriately
+//Identify the following parts of the function:
+//  definition
+//  declaration
+//  body
+//  function call
