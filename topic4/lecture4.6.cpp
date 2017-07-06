@@ -24,3 +24,8 @@ int main()
 
    return 0;
 }
+
+
+//Mark with a //* 3-5 items that are important
+//Mark with a //? 3-5 items that are unclear, incorrect, or you have questions about.
+//identify which parts you think are related to file input/output.  and what they do.  Guess.
