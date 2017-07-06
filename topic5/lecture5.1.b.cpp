@@ -18,3 +18,6 @@ betaPtr = alphaPtr;
 cout<<*alphaPtr<<endl;
 cout<<*betaPtr<<endl;
 }
+
+//Comment each line of code.  Explain what it is doing.  What value is held there.
+//Why is it doing what it is doing?
