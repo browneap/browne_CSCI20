@@ -44,3 +44,6 @@ int main()
     cout<<"Circle circumference: "<<c.circumference()<<endl;
     
 }
+
+//Mark with //* 2-4 items that are important
+//Mark with //? 2-4 items that are incorrect, unclear or you have questions about.
