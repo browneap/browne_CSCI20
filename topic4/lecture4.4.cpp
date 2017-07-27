@@ -37,3 +37,6 @@ char myString6[20] = "my test string";
 myString6[14] = '!';
 cout<<myString6<<endl;
 }
+
+//run the code
+//what should each of these do?  Do they do them?
