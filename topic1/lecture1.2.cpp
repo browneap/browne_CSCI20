@@ -1,12 +1,12 @@
-//Created By: April Browne
+//Created By: April Browne  
 //Created On: 8/22/2016
  
- #include <iostream>
- using namespace std;
+ #include <iostream> //preprocessor directive
+ using namespace std; //preprocessor directive
  
- int main()
+ int main() //main
  {
-     cout<<"Hello"<<"World!"<<endl;
+     cout<<"Hello "<<" "<<"World!"<<endl;
  }
  
  //Identify the following parts of the program:
