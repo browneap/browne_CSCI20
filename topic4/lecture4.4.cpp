@@ -23,6 +23,7 @@ while (i < 20)
    {
         spaceCount++;
    }
+   i++;
 }
 
 char myString5[2] = "my test string";
