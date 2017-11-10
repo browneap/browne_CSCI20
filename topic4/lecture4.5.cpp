@@ -20,6 +20,7 @@ while (i < 20)
    {
         spaceCount++;
    }
+   i++;
 }
 
 string myString5 = "my test string";
